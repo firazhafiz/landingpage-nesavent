@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  --primary-color: #fbf4e2;
+  --secondary-color: #ebaa01;
+  --third-color: #072f59;
+}
+
+html,
+body {
+  font-family: "Work Sans", sans-serif;
+}
+
+@theme {
+  --custom-orange: #ebaa01;
+  --custom-blue: #0b4683;
+  --custom-light: #f0f4f8;
+  --custom-neon: #4b4ded;
+}
