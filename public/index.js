@@ -1,5 +1,5 @@
 import LogoImg from "./logonesavent.png";
-import LogoDark from "./logodark.png";
+import LogoDark from "./LogoDark.png";
 import HeroImg from "./hero.jpg";
 import MusicIcon from "./asset-1.png";
 import ExhibIcon from "./asset-2.png";
